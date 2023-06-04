@@ -33,3 +33,13 @@ pip install -r requirements.txt  # install
 python WeChat.py
 ```
 </details>
+
+<details open>
+<summary>效果展示</summary>
+
+![](https://raw.githubusercontent.com/70800086/imgs/master/WechatAutoReply/%E5%BE%AE%E4%BF%A1%E8%87%AA%E5%8A%A8%E5%9B%9E%E5%A4%8D%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)
+
+![](https://raw.githubusercontent.com/70800086/imgs/master/WechatAutoReply/%E6%AC%A7%E6%8B%89%E5%85%AC%E5%BC%8F%E5%9B%9E%E5%A4%8D%E5%9B%BE%E7%89%87.png)
+
+![](https://raw.githubusercontent.com/70800086/imgs/master/WechatAutoReply/%E6%97%A5%E8%90%BD%E5%9B%BE%E7%89%87.png)
+</details>
